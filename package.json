@@ -22,9 +22,7 @@
   "dependencies": {
     "sass": "^1.49.9"
   },
-  "devDependencies": {
-    "prettier": "^2.6.0"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/lxchapu/hexo-renderer-sass-next.git"
