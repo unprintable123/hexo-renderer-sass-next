@@ -1,6 +1,7 @@
 # hexo-renderer-sass-next
 
-Add [Sass](https://sass-lang.com/) support for [Hexo](https://hexo.io/)
+Add [Sass](https://sass-lang.com/) support for [Hexo](https://hexo.io/).
+
 Support function `url_for, hexo-config, hexo-theme-config` for accessing hexo configs and url resolving.
 
 Thanks to [hexo-renderer-scss](https://github.com/mamboer/hexo-renderer-scss) and [hexo-renderer-sass-next](https://github.com/lxchapu/hexo-renderer-sass-next).
